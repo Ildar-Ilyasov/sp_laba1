@@ -2,7 +2,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
         Random random = new Random();
-        int[] num = new int[10000];
+        int[] num = new int[1000];
         int max = 0;
         int max_2 = 0;
         int max_7 = 0;
